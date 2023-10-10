@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Ya");
         System.out.println("Hola");
-        System.out.println("Putos todos ");
+        System.out.println("Putos todos, menos yo");
     }
 }
